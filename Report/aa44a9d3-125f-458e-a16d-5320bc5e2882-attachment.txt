@@ -1,0 +1,9 @@
+INFO     root:logger.py:92 打开浏览器成功
+INFO     root:logger.py:92 查找元素成功：('xpath', "//input[@placeholder='请输入用户名']")
+INFO     root:logger.py:92 输入成功:emopauto
+INFO     root:logger.py:92 查找元素成功：('xpath', "//input[@placeholder='请输入密码']")
+INFO     root:logger.py:92 输入成功:P@ssw0rd
+INFO     root:logger.py:92 查找元素成功：('xpath', "//input[@placeholder='请输入图中算式结果']")
+INFO     root:logger.py:92 输入成功:99
+INFO     root:logger.py:92 查找元素成功：('xpath', "//div[@class='pop-login-form']//div[@class='pop-login-form-content']//div[@class='pop-login-form-content-button']//div//div")
+INFO     root:logger.py:92 点击成功:('xpath', "//div[@class='pop-login-form']//div[@class='pop-login-form-content']//div[@class='pop-login-form-content-button']//div//div")

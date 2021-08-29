@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe8d1dd4-230a-4a8a-a853-a25352f7d29d" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Web$Unittests_for_test_page_input_Pageinput_pageinput__2_.coverage" NAME="Unittests for test_page_input.Pageinput.pageinput (2) Coverage Results" MODIFIED="1587887342267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web$Unittests_for_test_asd_TestLogin_testlogin.coverage" NAME="Unittests for test_asd.TestLogin.testlogin Coverage Results" MODIFIED="1587825069985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_for_test_asd_TestLogin__1_.coverage" NAME="Unittests for test_asd.TestLogin (1) Coverage Results" MODIFIED="1588746910409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for_test_video_jude_TestQuality_testquality__5_.coverage" NAME="Unittests for test_video_jude.TestQuality.testquality (5) Coverage Results" MODIFIED="1587971816272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__ass_ass1__1_.coverage" NAME="Unittests for 断言.ass.ass1 (1) Coverage Results" MODIFIED="1587979020169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__Ass_ass1__1_.coverage" NAME="Unittests for 断言.Ass.ass1 (1) Coverage Results" MODIFIED="1587979364763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__Duibi_duibi__3_.coverage" NAME="Unittests for 断言.Duibi.duibi (3) Coverage Results" MODIFIED="1588035664073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$.coverage" NAME="解码 Coverage Results" MODIFIED="1588152424118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__Duibi_duibi__4_.coverage" NAME="Unittests for 断言.Duibi.duibi (4) Coverage Results" MODIFIED="1588035734049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web$Unittests_in_test_page_input_py.coverage" NAME="Unittests in test_page_input.py Coverage Results" MODIFIED="1587873397579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for_test_video_jude_TestQuality_testquality__1_.coverage" NAME="Unittests for test_video_jude.TestQuality.testquality (1) Coverage Results" MODIFIED="1587974883564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__Ass_ass1.coverage" NAME="Unittests for 断言.Ass.ass1 Coverage Results" MODIFIED="1587979203659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for_testshunx_TestAdd_testadd__1_.coverage" NAME="Unittests for testshunx.TestAdd.testadd (1) Coverage Results" MODIFIED="1588211550880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$dawdaw.coverage" NAME="dawdaw Coverage Results" MODIFIED="1587983637630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_test" />
+    <SUITE FILE_PATH="coverage/Web$Unittests_for_test_page_input_Pageinput_pageinput.coverage" NAME="Unittests for test_page_input.Pageinput.pageinput Coverage Results" MODIFIED="1587873187484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web$Unittests_for_test_page_input_Pageinput_pageinput__1_.coverage" NAME="Unittests for test_page_input.Pageinput.pageinput (1) Coverage Results" MODIFIED="1587873432579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web$test_page_input.coverage" NAME="test_page_input Coverage Results" MODIFIED="1587867846930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_in_test_video_jude_py.coverage" NAME="Unittests in test_video_jude.py Coverage Results" MODIFIED="1588845673079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for_testshunx_TestAdd_testadd.coverage" NAME="Unittests for testshunx.TestAdd.testadd Coverage Results" MODIFIED="1588211042504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_for_test_asd_TestLogin_testlogin.coverage" NAME="Unittests for test_asd.TestLogin.testlogin Coverage Results" MODIFIED="1588746718672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_in_test_video_jude_py.coverage" NAME="Unittests in test_video_jude.py Coverage Results" MODIFIED="1588037847661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web_framework$Run.coverage" NAME="Run Coverage Results" MODIFIED="1589122644915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for_test_video_jude_TestQuality_testquality__2_.coverage" NAME="Unittests for test_video_jude.TestQuality.testquality (2) Coverage Results" MODIFIED="1587971248812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web$Run.coverage" NAME="Run Coverage Results" MODIFIED="1587826047898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__ass_ass1.coverage" NAME="Unittests for 断言.ass.ass1 Coverage Results" MODIFIED="1587978847558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_in_test_asd_py.coverage" NAME="Unittests in test_asd.py Coverage Results" MODIFIED="1588836329749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__Ass_ass1__2_.coverage" NAME="Unittests for 断言.Ass.ass1 (2) Coverage Results" MODIFIED="1587979405200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_in_testshunx_py.coverage" NAME="Unittests in testshunx.py Coverage Results" MODIFIED="1588211575259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__ass_ass1__4_.coverage" NAME="Unittests for 断言.ass.ass1 (4) Coverage Results" MODIFIED="1587977847118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__TestOpenchinalife_tearDown.coverage" NAME="Unittests for 弹框.TestOpenchinalife.tearDown Coverage Results" MODIFIED="1588039411874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web_framework$.coverage" NAME="全局变量 Coverage Results" MODIFIED="1588924703430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_for_test_asd_TestLogin.coverage" NAME="Unittests for test_asd.TestLogin Coverage Results" MODIFIED="1588746641394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for_testshunx_TestAdd.coverage" NAME="Unittests for testshunx.TestAdd Coverage Results" MODIFIED="1588211601734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for_testshunx_TestAdd_testcdd.coverage" NAME="Unittests for testshunx.TestAdd.testcdd Coverage Results" MODIFIED="1588210997068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__Ass_ass1__3_.coverage" NAME="Unittests for 断言.Ass.ass1 (3) Coverage Results" MODIFIED="1587979525745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for_test_video_jude_TestQuality_testquality__3_.coverage" NAME="Unittests for test_video_jude.TestQuality.testquality (3) Coverage Results" MODIFIED="1587971848781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1587955099574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_test" />
+    <SUITE FILE_PATH="coverage/Web$Unittests_for_test_page_input_Pageinput_pageinput__4_.coverage" NAME="Unittests for test_page_input.Pageinput.pageinput (4) Coverage Results" MODIFIED="1587887469777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__Duibi_duibi__1_.coverage" NAME="Unittests for 断言.Duibi.duibi (1) Coverage Results" MODIFIED="1588035722855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_for_test_asd_TestLogin_testlogin__1_.coverage" NAME="Unittests for test_asd.TestLogin.testlogin (1) Coverage Results" MODIFIED="1588835944982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__ass_ass1__3_.coverage" NAME="Unittests for 断言.ass.ass1 (3) Coverage Results" MODIFIED="1587977812077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__TestOpenchinalife_alert.coverage" NAME="Unittests for 弹框.TestOpenchinalife.alert Coverage Results" MODIFIED="1588039058532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_in__py.coverage" NAME="Unittests in 弹框.py Coverage Results" MODIFIED="1588039408657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web$Unittests_for_test_page_input_Pageinput_pageinput__3_.coverage" NAME="Unittests for test_page_input.Pageinput.pageinput (3) Coverage Results" MODIFIED="1587887463945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__ass_ass1__5_.coverage" NAME="Unittests for 断言.ass.ass1 (5) Coverage Results" MODIFIED="1587977917295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for_test_video_jude_TestQuality_testquality__4_.coverage" NAME="Unittests for test_video_jude.TestQuality.testquality (4) Coverage Results" MODIFIED="1587971909120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Run.coverage" NAME="Run Coverage Results" MODIFIED="1588211357629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__Ass_ass1__4_.coverage" NAME="Unittests for 断言.Ass.ass1 (4) Coverage Results" MODIFIED="1587979649528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__Duibi_duibi__2_.coverage" NAME="Unittests for 断言.Duibi.duibi (2) Coverage Results" MODIFIED="1588035616585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_for_test_video_jude_TestQuality.coverage" NAME="Unittests for test_video_jude.TestQuality Coverage Results" MODIFIED="1588845827501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__ass_ass1__2_.coverage" NAME="Unittests for 断言.ass.ass1 (2) Coverage Results" MODIFIED="1587977748584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for_test_video_jude_TestQuality_testquality.coverage" NAME="Unittests for test_video_jude.TestQuality.testquality Coverage Results" MODIFIED="1587978284283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for_test_page_input_Pageinput_pageinput.coverage" NAME="Unittests for test_page_input.Pageinput.pageinput Coverage Results" MODIFIED="1587951056380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__Duibi_duibi__5_.coverage" NAME="Unittests for 断言.Duibi.duibi (5) Coverage Results" MODIFIED="1588035755768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web1$Unittests_for__Duibi_duibi.coverage" NAME="Unittests for 断言.Duibi.duibi Coverage Results" MODIFIED="1588035740711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web$Unittests_in_test_asd_py.coverage" NAME="Unittests in test_asd.py Coverage Results" MODIFIED="1587867877816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Web_framework" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jANO1bmswiJ4qAcvBoTkUOlQ0Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sesa594800\Desktop\Web_framework" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sesa594800\Desktop\UIAutomation_Emop\测试使用" />
+      <recent name="C:\Users\sesa594800\Desktop\Web_framework\测试使用" />
+      <recent name="C:\Users\sesa594800\Desktop\Web_framework\Lid" />
+      <recent name="C:\Users\Administrator\Desktop\Web_framework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Phone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lid" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lid/Phone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dawdaw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Page_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\sesa594800\Desktop\UIAutomation_Emop\测试使用\dawdaw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_shunx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\UIAutomation_Emop\Test_Case\test_shunx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_emop.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test_Case/test_emop.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Main" />
+      <item itemvalue="Python.Phone" />
+      <item itemvalue="Python.dawdaw" />
+      <item itemvalue="Python.test_shunx" />
+      <item itemvalue="Python tests.Unittests in test_emop.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python tests.Unittests in test_emop.py" />
+        <item itemvalue="Python.test_shunx" />
+        <item itemvalue="Python.dawdaw" />
+        <item itemvalue="Python.Phone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe8d1dd4-230a-4a8a-a853-a25352f7d29d" name="Default" comment="" />
+      <created>1587562255645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587562255645</updated>
+      <workItem from="1603242902090" duration="11749000" />
+      <workItem from="1603262225607" duration="60000" />
+      <workItem from="1603263086581" duration="12313000" />
+      <workItem from="1603961566337" duration="1691000" />
+      <workItem from="1604283800855" duration="454000" />
+      <workItem from="1604301417418" duration="6643000" />
+      <workItem from="1604972583800" duration="1797000" />
+      <workItem from="1605860870734" duration="1668000" />
+      <workItem from="1605863968174" duration="767000" />
+      <workItem from="1606116431921" duration="1796000" />
+      <workItem from="1606180700078" duration="1858000" />
+      <workItem from="1606183148642" duration="1949000" />
+      <workItem from="1606189819513" duration="20000" />
+      <workItem from="1606195589307" duration="476000" />
+      <workItem from="1606207893108" duration="1696000" />
+      <workItem from="1606209780371" duration="1083000" />
+      <workItem from="1606274632722" duration="23000" />
+      <workItem from="1606274787305" duration="1034000" />
+      <workItem from="1606276620231" duration="626000" />
+      <workItem from="1606278439946" duration="605000" />
+      <workItem from="1606281135938" duration="1198000" />
+      <workItem from="1606283194253" duration="603000" />
+      <workItem from="1606285863152" duration="599000" />
+      <workItem from="1606287679507" duration="858000" />
+      <workItem from="1611887657316" duration="84000" />
+      <workItem from="1612425431627" duration="7223000" />
+      <workItem from="1612765696253" duration="28000" />
+      <workItem from="1614327600864" duration="3586000" />
+      <workItem from="1614491466687" duration="8413000" />
+      <workItem from="1614593591094" duration="4714000" />
+      <workItem from="1616052923261" duration="1242000" />
+      <workItem from="1616061073049" duration="709000" />
+      <workItem from="1616062543462" duration="11000" />
+      <workItem from="1629769156471" duration="1290000" />
+      <workItem from="1629771286322" duration="727000" />
+      <workItem from="1629772031879" duration="7915000" />
+      <workItem from="1629872349514" duration="373000" />
+      <workItem from="1629872748315" duration="114000" />
+      <workItem from="1629872914762" duration="58000" />
+      <workItem from="1629874052077" duration="195000" />
+      <workItem from="1629876339133" duration="1497000" />
+      <workItem from="1630071972277" duration="7716000" />
+      <workItem from="1630151782211" duration="3810000" />
+      <workItem from="1630158117550" duration="2845000" />
+      <workItem from="1630207925094" duration="774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="601" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1629870775686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="601" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629870775686" />
+    <state x="668" y="117" key="#testshunx" timestamp="1630072079693">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="668" y="117" key="#testshunx/0.0.1920.1032@0.0.1920.1032" timestamp="1630072079693" />
+    <state x="686" y="208" key="FileChooserDialogImpl" timestamp="1630159401375">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629874246994" />
+    <state x="686" y="208" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1630159401375" />
+    <state width="1082" height="241" key="GridCell.Tab.0.bottom" timestamp="1630161852809">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1629869223196" />
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629874247997" />
+    <state width="1082" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1630161852809" />
+    <state width="1082" height="241" key="GridCell.Tab.0.center" timestamp="1630161852809">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1629869223196" />
+    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629874247997" />
+    <state width="1082" height="241" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1630161852809" />
+    <state width="1082" height="241" key="GridCell.Tab.0.left" timestamp="1630161852809">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1629869223196" />
+    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629874247997" />
+    <state width="1082" height="241" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1630161852809" />
+    <state width="1082" height="241" key="GridCell.Tab.0.right" timestamp="1630161852809">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1629869223196" />
+    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629874247997" />
+    <state width="1082" height="241" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1630161852809" />
+    <state width="1082" height="326" key="GridCell.Tab.1.bottom" timestamp="1630161018271">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629872115997" />
+    <state width="1082" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1630161018271" />
+    <state width="1082" height="326" key="GridCell.Tab.1.center" timestamp="1630161018271">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629872115997" />
+    <state width="1082" height="326" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1630161018271" />
+    <state width="1082" height="326" key="GridCell.Tab.1.left" timestamp="1630161018271">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629872115996" />
+    <state width="1082" height="326" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1630161018271" />
+    <state width="1082" height="326" key="GridCell.Tab.1.right" timestamp="1630161018271">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629872115997" />
+    <state width="1082" height="326" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1630161018271" />
+    <state x="273" y="149" key="SettingsEditor" timestamp="1630159414515">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="393" y="107" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629877978271" />
+    <state x="273" y="149" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1630159414515" />
+    <state x="561" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1630207924623">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629872914703" />
+    <state x="561" y="296" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1630207924623" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1629876767035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629876767035" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UIAutomation_Emop$Phone.coverage" NAME="Phone Coverage Results" MODIFIED="1629869566520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lid" />
+    <SUITE FILE_PATH="coverage/UIAutomation_Emop$testshunx.coverage" NAME="testshunx Coverage Results" MODIFIED="1630072128149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/UIAutomation_Emop$random.coverage" NAME="random Coverage Results" MODIFIED="1629869520921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lid" />
+    <SUITE FILE_PATH="coverage/Web_framework$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1614498235856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_test" />
+    <SUITE FILE_PATH="coverage/Web_framework$SqlServer.coverage" NAME="SqlServer Coverage Results" MODIFIED="1603268599381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lid" />
+    <SUITE FILE_PATH="coverage/Web_framework$path.coverage" NAME="path Coverage Results" MODIFIED="1612429174985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试使用" />
+    <SUITE FILE_PATH="coverage/Web_framework$random.coverage" NAME="random Coverage Results" MODIFIED="1629769729883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lid" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_for_test_emop_TestEMOP.coverage" NAME="Unittests for test_emop.TestEMOP Coverage Results" MODIFIED="1603244209816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/UIAutomation_Emop$Main.coverage" NAME="Main Coverage Results" MODIFIED="1630161160220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UIAutomation_Emop$.coverage" NAME="解码 Coverage Results" MODIFIED="1629792902740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试使用" />
+    <SUITE FILE_PATH="coverage/Web_framework$sql.coverage" NAME="sql Coverage Results" MODIFIED="1612425734260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lid" />
+    <SUITE FILE_PATH="coverage/Web_framework$logger.coverage" NAME="logger Coverage Results" MODIFIED="1606180720797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lid" />
+    <SUITE FILE_PATH="coverage/UIAutomation_Emop$Run.coverage" NAME="Run Coverage Results" MODIFIED="1629771661587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_in_test_emop_py.coverage" NAME="Unittests in test_emop.py Coverage Results" MODIFIED="1614593661609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web_framework$Run.coverage" NAME="Run Coverage Results" MODIFIED="1629769362131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web_framework$path__1_.coverage" NAME="path (1) Coverage Results" MODIFIED="1612429640689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lid" />
+    <SUITE FILE_PATH="coverage/UIAutomation_Emop$Unittests_in_test_emop_py.coverage" NAME="Unittests in test_emop.py Coverage Results" MODIFIED="1630072192510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/UIAutomation_Emop$dawdaw.coverage" NAME="dawdaw Coverage Results" MODIFIED="1629869619661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_test" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_for_test_asd_TestLogin_testlogin.coverage" NAME="Unittests for test_asd.TestLogin.testlogin Coverage Results" MODIFIED="1614597741141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_for_test_emop_TestEMOP_testemop.coverage" NAME="Unittests for test_emop.TestEMOP.testemop Coverage Results" MODIFIED="1603245281637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web_framework$db.coverage" NAME="db Coverage Results" MODIFIED="1612425876902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lid" />
+    <SUITE FILE_PATH="coverage/Web_framework$dawdaw.coverage" NAME="dawdaw Coverage Results" MODIFIED="1629769830128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_test" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_for_test_emop_LoginEMOP.coverage" NAME="Unittests for test_emop.LoginEMOP Coverage Results" MODIFIED="1614497922082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_in_test_asd_py.coverage" NAME="Unittests in test_asd.py Coverage Results" MODIFIED="1614596942177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Web_framework$Unittests_for_test_emop_LoginEMOP_testemop.coverage" NAME="Unittests for test_emop.LoginEMOP.testemop Coverage Results" MODIFIED="1614498458820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+  </component>
+</project>
