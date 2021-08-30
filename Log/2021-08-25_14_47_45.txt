@@ -1,3 +1,0 @@
-[2021-08-25 14:48:12,189]: [INFO]: [打开浏览器成功]
-[2021-08-25 14:48:38,485]: [ERROR]: [查找元素失败超过等待时常:('xpath', '//*[@id="popapp"]/div/div[1]/div[2]/div[2]/div/div[2]/div/div[3]/div[2]/input')]
-[2021-08-25 14:48:38,687]: [ERROR]: [查找元素失败:('xpath', '//*[@id="popapp"]/div/div[1]/div[2]/div[2]/div/div[2]/div/div[3]/div[2]/input')]

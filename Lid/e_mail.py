@@ -30,7 +30,7 @@ def send_email(report_file):
     logging.info("邮件发送完成")
 
 def send_mail_yagmail(report):
-    yag = yagmail.SMTP(user="1240898275@qq.com",password="fwgfauhaluxxjbee",host='smtp.qq.com')
+    yag = yagmail.SMTP(user="1240898275@qq.com",password="ryfotzbxdnfyggea",host='smtp.qq.com')
     subject = "主题，自动化测试报告"
     contents = "正文，请查看附件"
     yag.send('super_u_t@163.com',subject,contents,report)

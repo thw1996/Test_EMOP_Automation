@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe8d1dd4-230a-4a8a-a853-a25352f7d29d" name="Default" comment="" />
+    <list default="true" id="fe8d1dd4-230a-4a8a-a853-a25352f7d29d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lid/e_mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lid/e_mail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lid/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lid/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/2021-08-25_14_47_45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/2021-08-27_21_48_48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/2021-08-27_21_49_52.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/2021-08-27_21_52_54.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/2021-08-28_20_30_57.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/2021-08-28_20_34_43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/2021-08-28_21_42_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/2021-08-28_21_47_58.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/2021-08-28_22_32_41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/31d7da74-53ed-4111-af17-b7351b48eae4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/51a8c585-9a9a-428b-acb4-984d6cc13308-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/644b72fe-8f3f-4bcc-9659-de9aaaafb475-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/6bde92bc-2a8f-4037-824c-1fd341cd71e2-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/a09f7447-48b0-47e6-9b99-c4544c52a27a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/aa44a9d3-125f-458e-a16d-5320bc5e2882-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/c7415d80-ab4e-4443-ac64-0987cddf2ea1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/ca10f103-9655-4e38-bfe5-15f7c60cc214-result.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +97,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jANO1bmswiJ4qAcvBoTkUOlQ0Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -83,6 +109,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -310,7 +337,8 @@
       <workItem from="1630071972277" duration="7716000" />
       <workItem from="1630151782211" duration="3810000" />
       <workItem from="1630158117550" duration="2845000" />
-      <workItem from="1630207925094" duration="774000" />
+      <workItem from="1630207925094" duration="5897000" />
+      <workItem from="1630327537133" duration="1118000" />
     </task>
     <servers />
   </component>
@@ -375,16 +403,16 @@
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629872115997" />
     <state width="1082" height="326" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1630161018271" />
-    <state x="273" y="149" key="SettingsEditor" timestamp="1630159414515">
+    <state x="421" y="254" key="SettingsEditor" timestamp="1630214764446">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="393" y="107" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629877978271" />
-    <state x="273" y="149" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1630159414515" />
-    <state x="561" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1630207924623">
+    <state x="421" y="254" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1630214764446" />
+    <state x="561" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1630327536130">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629872914703" />
-    <state x="561" y="296" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1630207924623" />
+    <state x="561" y="296" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1630327536130" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1629876767035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
