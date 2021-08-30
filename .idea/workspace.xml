@@ -4,6 +4,7 @@
     <list default="true" id="fe8d1dd4-230a-4a8a-a853-a25352f7d29d" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/Lid/e_mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lid/e_mail.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lid/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lid/logger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Log/2021-08-25_14_47_45.txt" beforeDir="false" />
@@ -15,6 +16,11 @@
       <change beforePath="$PROJECT_DIR$/Log/2021-08-28_21_42_03.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Log/2021-08-28_21_47_58.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Log/2021-08-28_22_32_41.txt" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Log/2021-08-25_14_47_45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/2021-08-27_21_48_48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/2021-08-27_21_49_52.txt" beforeDir="false" />
+>>>>>>> eb6c5f2f13f65c271b159966d72a6efbe4b04705
       <change beforePath="$PROJECT_DIR$/Report/31d7da74-53ed-4111-af17-b7351b48eae4-container.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Report/51a8c585-9a9a-428b-acb4-984d6cc13308-result.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Report/644b72fe-8f3f-4bcc-9659-de9aaaafb475-result.json" beforeDir="false" />
@@ -338,7 +344,10 @@
       <workItem from="1630151782211" duration="3810000" />
       <workItem from="1630158117550" duration="2845000" />
       <workItem from="1630207925094" duration="5897000" />
+<<<<<<< HEAD
       <workItem from="1630327537133" duration="1118000" />
+=======
+>>>>>>> eb6c5f2f13f65c271b159966d72a6efbe4b04705
     </task>
     <servers />
   </component>
@@ -408,7 +417,11 @@
     </state>
     <state x="393" y="107" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629877978271" />
     <state x="421" y="254" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1630214764446" />
+<<<<<<< HEAD
     <state x="561" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1630327536130">
+=======
+    <state x="561" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1630207924623">
+>>>>>>> eb6c5f2f13f65c271b159966d72a6efbe4b04705
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1629872914703" />
